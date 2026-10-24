@@ -1,4 +1,4 @@
-<-- <p align="center">
+<!-- <p align="center">
   <img src="docs/visualizations/bimanual_simulation_full.gif" alt="Butler AI — full bimanual sequence" width="720">
 </p> -->
 
