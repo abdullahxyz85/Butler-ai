@@ -314,13 +314,13 @@ in the executor, real SO-101 hardware deployment. Details → [deep dive](docs/T
 | Stage | Owner | Owned |
 |---|---|---|
 | Voice & Instruction Understanding | Alex | Speechmatics + Claude → structured `Task` |
-| Scene Perception | Lauren | ArUco/homography vision, calibration |
-| Policy / Task Reasoning | Bidipta + Muhammad (data) | Planner, LeRobot ACT training/export |
-| Bimanual Coordination & Drawer | Alex | MuJoCo dual-arm primitives, physics, contact audit |
-| Intel Model Optimization | Lauren | OpenVINO export and benchmarking |
+| Scene Perception | Lauren + Abdullah | ArUco/homography vision, calibration |
+| Policy / Task Reasoning | Muhammad Azeem(data) | Planner, LeRobot ACT training/export |
+| Bimanual Coordination & Drawer | Muhammad Azeem | MuJoCo dual-arm primitives, physics, contact audit |
+| Intel Model Optimization | Bidipta | OpenVINO export and benchmarking |
 | Verify & Recover | Abdullah | Postcondition checks, replan signal |
-| Robustness & Randomized Eval | Abdullah | Domain randomization, seed evaluation |
-| Integration & Submission | Alex | End-to-end wiring, README, packaging |
+| Robustness & Randomized Eval | Muhammad Azeem | Domain randomization, seed evaluation |
+| Integration & Submission | Abdullah + Lauren| End-to-end wiring, README, packaging |
 
 [For More Details](docs/TECHNICAL_DEEP_DIVE.md).
 
