@@ -318,7 +318,7 @@ in the executor, real SO-101 hardware deployment. Details → [deep dive](docs/T
 | Policy / Task Reasoning | Muhammad Azeem(data) | Planner, LeRobot ACT training/export |
 | Bimanual Coordination & Drawer | Muhammad Azeem | MuJoCo dual-arm primitives, physics, contact audit |
 | Intel Model Optimization | Bidipta | OpenVINO export and benchmarking |
-| Verify & Recover | Abdullah | Postcondition checks, replan signal |
+| Verify & Recover | Abdullah + Muhammad Azeem | Postcondition checks, replan signal |
 | Robustness & Randomized Eval | Muhammad Azeem | Domain randomization, seed evaluation |
 | Integration & Submission | Abdullah + Lauren| End-to-end wiring, README, packaging |
 
